@@ -44,7 +44,7 @@ KERNEL_CONFIG_USE_DIFFCONFIG = 0
 #KERNEL_PRODUCT_DIFFCONFIG = my_diffconfig
 
 # Defconfig to use
-KERNEL_DEFCONFIG = exynos9810-starlte_defconfig
+KERNEL_DEFCONFIG = gnumdk_defconfig
 #KERNEL_DEFCONFIG = exynos9810-star2lte_defconfig
 #KERNEL_DEFCONFIG = exynos9810-crownlte_defconfig
 
